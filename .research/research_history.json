@@ -6,5 +6,82 @@
     "gradient checkpointing diffusion",
     "mixed-precision diffusion",
     "quantized diffusion model"
+  ],
+  "research_study_list": [
+    {
+      "title": "Fast and Memory-Efficient Video Diffusion Using Streamlined Inference"
+    },
+    {
+      "title": "Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models"
+    },
+    {
+      "title": "Multistep Distillation of Diffusion Models via Moment Matching"
+    },
+    {
+      "title": "SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds"
+    },
+    {
+      "title": "Improving Training Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architecture"
+    },
+    {
+      "title": "Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models"
+    },
+    {
+      "title": "Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching"
+    },
+    {
+      "title": "Ambient Diffusion: Learning Clean Distributions from Corrupted Data"
+    },
+    {
+      "title": "Multistep Distillation of Diffusion Models via Moment Matching"
+    },
+    {
+      "title": "Dimensionality-Varying Diffusion Process"
+    },
+    {
+      "title": "Structural Pruning for Diffusion Models"
+    },
+    {
+      "title": "Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation"
+    },
+    {
+      "title": "PixelAsParam: A Gradient View on Diffusion Sampling with Guidance"
+    },
+    {
+      "title": "A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models"
+    },
+    {
+      "title": "DeepCache: Accelerating Diffusion Models for Free"
+    },
+    {
+      "title": "PTQD: Accurate Post-Training Quantization for Diffusion Models"
+    },
+    {
+      "title": "Diffusion Sampling with Momentum for Mitigating Divergence Artifacts"
+    },
+    {
+      "title": "Leveraging Early-Stage Robustness in Diffusion Models for Efficient and High-Quality Image Synthesis"
+    },
+    {
+      "title": "DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models"
+    },
+    {
+      "title": "Temporal Dynamic Quantization for Diffusion Models"
+    },
+    {
+      "title": "Temporal Dynamic Quantization for Diffusion Models"
+    },
+    {
+      "title": "PTQD: Accurate Post-Training Quantization for Diffusion Models"
+    },
+    {
+      "title": "BitsFusion: 1.99 bits Weight Quantization of Diffusion Model"
+    },
+    {
+      "title": "Towards Accurate Post-training Quantization for Diffusion Models"
+    },
+    {
+      "title": "Q-DM: An Efficient Low-bit Quantized Diffusion Model"
+    }
   ]
 }
